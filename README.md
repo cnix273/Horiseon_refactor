@@ -40,9 +40,9 @@ Repository structure must be maintained for proper usage of the index.html file.
 * Navigation bar elements link to article elements within the same page
 
 **Website Appearance**
-![Screenshot 1](https://cnix273.github.com/Horiseon_refactor/screenshot1.png)
-![Screenshot 2](https://cnix273.github.com/Horiseon_refactor/screenshot2.png)
-![Screenshot 3](https://cnix273.github.com/Horiseon_refactor/screenshot3.png)
+![Screenshot 1](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/screenshot1.png)
+![Screenshot 2](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/screenshot2.png)
+![Screenshot 3](https://github.com/cnix273/Horiseon_refactor/blob/main/assets/images/screenshot3.png)
 
 ## Credits
 
